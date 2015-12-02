@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoomWTF</string>
+
+    <string name="boom">Boom</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_boom_gif">BoomGif</string>
+</resources>
